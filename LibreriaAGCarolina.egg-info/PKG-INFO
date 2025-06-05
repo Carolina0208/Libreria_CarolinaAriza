@@ -1,0 +1,67 @@
+Metadata-Version: 2.4
+Name: LibreriaAGCarolina
+Version: 0.4
+Summary: Una librería para desarrollar algoritmos genéticos
+Home-page: 
+Author: Carolina Ariza Tapias
+Author-email: caroariza0208@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: summary
+
+# LibreriaAGCarolina
+
+**LibrerÃ­a de operadores genÃ©ticos para algoritmos evolutivos en Python.**
+
+Esta librerÃ­a contiene implementaciones personalizadas de funciones de **selecciÃ³n**, **cruce** y **mutaciÃ³n** diseÃ±adas para ser utilizadas junto con el framework [PyGAD](https://pygad.readthedocs.io), facilitando la construcciÃ³n y experimentaciÃ³n con algoritmos genÃ©ticos.
+
+---
+
+## InstalaciÃ³n
+
+Para instalar la librerÃ­a desde PyPI:
+
+```bash
+pip install LibreriaAGCarolina
+
+Funcionalidades
+La librerÃ­a incluye funciones agrupadas en tres mÃ³dulos principales:
+
+SelecciÃ³n
+seleccion_torneo()
+
+seleccion_aleatoria()
+
+seleccion_ruleta()
+
+seleccion_ranking()
+
+seleccion_elitista()
+
+Cruce
+cruce_un_punto()
+
+cruce_dos_puntos()
+
+cruce_uniforme()
+
+cruce_aritmetico()
+
+MutaciÃ³n
+mutacion_binaria()
+
+mutacion_swap()
+
+mutacion_gaussiana()
+
+Requisitos
+Python 3.7 o superior
+
+PyGAD (para integraciones)
+
+Autor
+Carolina Ariza Tapias
+Proyecto acadÃ©mico para la creaciÃ³n y publicaciÃ³n de paquetes Python en PyPI.
+Universidad de Cundinamarca, 2025.
+

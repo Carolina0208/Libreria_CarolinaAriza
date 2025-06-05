@@ -1,0 +1,8 @@
+README.md
+setup.py
+LibreriaAGCarolina/Funciones.py
+LibreriaAGCarolina/__init__.py
+LibreriaAGCarolina.egg-info/PKG-INFO
+LibreriaAGCarolina.egg-info/SOURCES.txt
+LibreriaAGCarolina.egg-info/dependency_links.txt
+LibreriaAGCarolina.egg-info/top_level.txt
